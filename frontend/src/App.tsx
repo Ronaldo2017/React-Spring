@@ -1,8 +1,10 @@
 import React from 'react';
+import NavBar from './components/NavBar';
+
 
 function App() {
   return (
-    <h1>Catálogos de Filmes</h1>
+      <NavBar/>
   );
 }
 
