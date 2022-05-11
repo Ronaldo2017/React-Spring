@@ -1,0 +1,5 @@
+package com.nossacriacao.nossacriacao.entities;
+
+public class User {
+
+}
