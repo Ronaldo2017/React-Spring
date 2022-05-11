@@ -1,0 +1,5 @@
+package com.nossacriacao.nossacriacao.dto;
+
+public class ScoreDTO {
+
+}
