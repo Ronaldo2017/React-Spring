@@ -1,0 +1,5 @@
+package com.nossacriacao.nossacriacao.config;
+
+public class SecurityConfig {
+
+}
